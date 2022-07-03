@@ -1,0 +1,8 @@
+<suite name="Regression run for ui e2e tests" parallel="methods" thread-count="1">
+    <test name="Chrome browser">
+        <classes>
+            <class name="VerifySkillsCount">
+            </class>
+        </classes>
+    </test>
+</suite>
