@@ -1,9 +1,0 @@
-pages/VacanciesPage.class
-helpers/MenuItems.class
-pages/VacancyPage.class
-configuration/Config.class
-pages/HomePage.class
-pages/BasePage.class
-helpers/BaseUIHelper.class
-VerifySkillsCount.class
-BaseTest.class
